@@ -6,17 +6,15 @@
 
 - 🔭 I’m currently studying **Master of computer applications**
 
-- 🌱 I’m currently learning **python and SQL**
+- 🌱 I’m currently learning **java full stack like Front end , Backend , Database**
 
 - 💬 I’m a **Fresher**
 
-- 📫 How to reach me **ashokbolisetty123@gmail.com**
-
-- ⚡ Fun fact **I am Funny**
+- 📫 How to reach me **ashok.bolisetty.jp@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/bolisettyashok/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Bolisetty-Ashok-b89a791b3" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ashok.bolisetty.jp@gmail,com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Bolisetty-Ashok-b89a791b3" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
